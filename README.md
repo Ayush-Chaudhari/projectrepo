@@ -29,7 +29,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/Ayush-Chauhdari/flipkart-clone.git
+git clone https://github.com/Ayush-Chaudhari/projectrepo
 Open index.html in your browser
 
 🤝 Contributing
