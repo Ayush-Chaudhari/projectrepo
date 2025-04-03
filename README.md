@@ -1,4 +1,4 @@
-Flipkart Clone 🛒
+Flipkart Clone 🛒<br>
 A simple Flipkart clone built using HTML & CSS. This is an ongoing project that will be improved with more features and functionality in the future.
 
 🚀 Features<br>
