@@ -1,17 +1,19 @@
 Flipkart Clone 🛒
 A simple Flipkart clone built using HTML & CSS. This is an ongoing project that will be improved with more features and functionality in the future.
 
-🚀 Features
-✅ Basic Flipkart UI Layout
-✅ Responsive Design (Work in Progress)
+🚀 Features<br>
+✅ Basic Flipkart UI Layout<br>
+✅ Responsive Design (Work in Progress)<br>
 ✅ Navigation Bar & Categories
 
-📌 Technologies Used
+📌 Technologies Used<br>
+
     HTML
 
     CSS
 
-🔧 Future Improvements
+🔧 Future Improvements<br>
+
     Add JavaScript for interactivity
 
     Improve responsiveness with media queries
@@ -21,14 +23,14 @@ A simple Flipkart clone built using HTML & CSS. This is an ongoing project that 
     Enhance UI/UX with animations and better styling
 
 📷 Preview
-![Flipkart Clone Screenshot](images\Screenshotflip.png)
+![Flipkart Clone Screenshot](https://github.com/Ayush-Chaudhari/projectrepo/blob/main/images/Screenshotflip.png)
 
 
-🛠 Installation & Usage
+🛠 Installation & Usage<br>
 Clone the repository
 
-1.git clone https://github.com/Ayush-Chaudhari/projectrepo
-2.Open index.html in your browser
+1. git clone https://github.com/Ayush-Chaudhari/projectrepo
+2. Open index.html in your browser
 
 🤝 Contributing
 If you have suggestions, feel free to fork the repo and submit a pull request!
