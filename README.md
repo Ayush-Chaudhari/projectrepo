@@ -7,30 +7,28 @@ A simple Flipkart clone built using HTML & CSS. This is an ongoing project that 
 ✅ Navigation Bar & Categories
 
 📌 Technologies Used
-HTML
+    HTML
 
-CSS
+    CSS
 
 🔧 Future Improvements
-Add JavaScript for interactivity
+    Add JavaScript for interactivity
 
-Improve responsiveness with media queries
+    Improve responsiveness with media queries
 
-Implement a backend (Node.js, Django, or Firebase)
+    Implement a backend (Node.js, Django, or Firebase)
 
-Enhance UI/UX with animations and better styling
+    Enhance UI/UX with animations and better styling
 
 📷 Preview
-(Include a screenshot of your website here)
+![Flipkart Clone Screenshot](images\Screenshotflip.png)
+
 
 🛠 Installation & Usage
 Clone the repository
 
-bash
-Copy
-Edit
-git clone https://github.com/Ayush-Chaudhari/projectrepo
-Open index.html in your browser
+1.git clone https://github.com/Ayush-Chaudhari/projectrepo
+2.Open index.html in your browser
 
 🤝 Contributing
 If you have suggestions, feel free to fork the repo and submit a pull request!
