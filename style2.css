@@ -1,0 +1,248 @@
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: border-box;
+}
+
+/* HEADER NAVBAR */
+
+.navbar{
+    height: 70px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-weight: lighter;
+}
+.nav-logo{
+    height: 40px;
+    width: 145px;
+    background-image: url("images/Flipkart-Logo-2015-present.jpg");
+    background-size: cover;
+    background-position-y: center;
+    padding: 8px;
+}
+.nav-search{
+    display: flex;
+    background-color: #e9eff8;
+    height: 44px;
+    border-radius: 4px;
+}
+.navsearch-icon{
+    font-size: 22px;
+    padding: 7px 8px 10px 12px;
+    
+}
+.navsearch-bar{
+    border: none;
+    width: 500px;
+    font-size: 15px;
+    background-color: #e9eff8;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    padding-left: 5px;
+}
+.nav-login{
+    padding: 8px;
+}
+.nav-login i{
+    margin-right: 5px;
+}
+.nav-cart{
+    padding: 0px 6px;
+}
+.nav-cart i{
+    margin-right: 5px;
+}
+.nav-seller i{
+    margin-right: 5px;
+}
+.nav-select{
+    padding: 8px;
+}
+.nav-select i{
+    width: 8px;
+    text-align: center;
+}
+
+/* SHOP CATEGORIES */
+
+.category{
+    height: 145px;
+    width: 95%;
+    margin: 10px ;
+    margin-left: 35px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+}
+.box{
+    height: 95px;
+    width: 100px;
+}
+.box-img{
+    background-size: cover ;
+    height: 95px;
+    width: 95px;
+    border-radius: 3px;
+}
+.box-content span{
+    font-size: small;
+}
+
+/* HOME IMAGE */
+
+.home-img{
+    height: 200px;
+    width: 95%;
+    margin: 10px;
+    background-image: url("/images/maxresdefault.jpg");
+    background-size: contain;
+    margin-left: 35px;
+}
+
+/* SHOP SECTION */
+
+.shop-section{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* SECTION 1 */
+
+.section1{
+    margin: 20px;
+    margin-left: 35px;
+}
+.sec1-heading i{
+    margin: 10px;
+}
+.sec1-heading{
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    padding-left: 10px;
+}
+.sec1-products{
+    display: flex;
+}
+.sec1box-content{
+    text-align: center;
+}
+.sec1box-content span{
+    font-weight: bold;
+}
+.sec1-box{
+    height: 255px;
+    width: 205px;
+    border: 1px solid rgb(214, 214, 214);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border-radius: 3px;
+    margin:10px
+}
+.sec1-img{
+    height: 190px;
+    width: 190px;
+    background-size: cover;
+    margin: 5px;
+}
+
+/* SECTION 2 */
+
+.section2{
+    display: flex;
+    justify-content: center;
+}
+.sec2box{
+    height: 505px;
+    width: 395px;
+    margin: 8px;
+}
+.sec2box-heading{
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    padding-left: 22px;
+}
+.sec2box-heading i{
+    margin: 10px;
+}
+.sec2-product{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.sec2box-product{
+    text-align: center;
+    border: 1px solid rgb(214, 214, 214);
+    border-radius: 3px;
+    padding: 5px;
+    margin: 10px;
+}
+.sec2product-img{
+    background-size: cover;
+    background-position-y: -10px;
+    height: 153px;
+    width: 153px;
+}
+.sec2box-content span{
+    font-weight: bold;
+    color: rgb(11, 124, 11);
+}
+
+/* FOOTER */
+
+.footpanel{
+    height: 345px;
+    background-color: #191919;
+    color: white;
+}
+.foot-panel1{
+    display:flex;
+    justify-content: space-evenly;
+    padding: 60px 60px 0px;
+}
+
+ul a{
+    color: white;
+    display: block;
+    text-decoration: none;
+    font-size: small;
+    font-weight: bold;
+}
+#address{
+    margin-bottom: 10px;
+    font-size: small;
+}
+.address{
+    border-left: 1px solid gainsboro;
+}
+ul p{
+    font-size: small;
+}
+.list-head{
+    font-size: large;
+    font-weight: lighter;
+    margin-bottom: 10px;
+}
+.foot-panel2{
+    height: 68px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 40px;
+    border-top: 1px solid gainsboro;
+}
+.footpanel2-box i{
+    font-size: small;
+    margin: 10px;
+}
+.footpanel2-box span{
+    font-weight: lighter;
+    font-size: small;
+}
